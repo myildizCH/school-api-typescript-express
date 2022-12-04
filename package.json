@@ -8,7 +8,7 @@
     "dev": "nodemon app.ts",
     "build": "tsc"
   },
-  "author": "",
+  "author": "Mehmet Yildiz",
   "license": "ISC",
   "dependencies": {
     "@types/body-parser": "^1.19.2",
