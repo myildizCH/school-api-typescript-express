@@ -9,7 +9,7 @@ School API allows developers to use some functionalities needed at schools, like
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/package/npm) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/package/npm) to install dependencies.
 
 ```bash
 npm install
